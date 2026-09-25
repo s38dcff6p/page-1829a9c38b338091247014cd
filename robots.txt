@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.gysmq.cn/sitemap.xml
